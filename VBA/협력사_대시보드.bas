@@ -16,8 +16,6 @@ Sub finalVBA2()
     Dim sheetNames As Variant
     
     
-    
-    
 
     ' 시트 설정
     Set wsOct = ThisWorkbook.Sheets("10query")
